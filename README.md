@@ -5,6 +5,9 @@ This is small project on Java. Convert images to ascii code.
 
 Example:`java -jar Ascii.jar D:\Trol\myPict.png`
 
+`
+
+
 
                                          ....                                     
                             .*xx$$##@@@@@@@@@@@@@@@###$$$$$$#$*                   
@@ -75,3 +78,4 @@ Example:`java -jar Ascii.jar D:\Trol\myPict.png`
             *#@@@@@@@@@@@@@@@#$x.                                                 
               .x$#@@@@@##$x*.                                                     
                                                                                   
+`
